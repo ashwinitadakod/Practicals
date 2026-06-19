@@ -1,4 +1,1 @@
-Code is /c/Users/dell/AppData/Local/Programs/Microsoft VS Code/bin/Code
-file is /usr/bin/file
-for is a shell keyword
-test is a shell builtin
+Coding for practice
